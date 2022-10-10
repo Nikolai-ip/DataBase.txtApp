@@ -1,0 +1,116 @@
+Log message: User sign in | Time: Thu Oct 06 23:01:35 MSK 2022
+Log message: User read records from DB | Time: Thu Oct 06 23:01:35 MSK 2022
+Log message: User exit | Time: Thu Oct 06 23:01:35 MSK 2022
+Log message: User sign in | Time: Thu Oct 06 23:03:50 MSK 2022
+Log message: User set trueDebug mode | Time: Thu Oct 06 23:03:50 MSK 2022
+Log message: User set falseAutotest mode | Time: Thu Oct 06 23:03:50 MSK 2022
+Log message: User add record: Татьяна Петручок Ивановна | Time: Thu Oct 06 23:03:50 MSK 2022
+Log message: User read records from DB | Time: Thu Oct 06 23:03:50 MSK 2022
+Log message: User exit | Time: Thu Oct 06 23:03:50 MSK 2022
+Log message: User read records from DB | Time: Thu Oct 06 23:13:50 MSK 2022
+Log message: User exit | Time: Thu Oct 06 23:13:50 MSK 2022
+Log message: User sign in | Time: Thu Oct 06 23:21:33 MSK 2022
+Log message: User set false Debug mode | Time: Thu Oct 06 23:21:33 MSK 2022
+Log message: User set false Autotest mode | Time: Thu Oct 06 23:21:33 MSK 2022
+Log message: User read records from DB | Time: Thu Oct 06 23:21:33 MSK 2022
+Log message: User exit | Time: Thu Oct 06 23:21:33 MSK 2022
+Log message: User read records from DB | Time: Thu Oct 06 23:35:34 MSK 2022
+Log message: User read records from DB | Time: Thu Oct 06 23:35:34 MSK 2022
+Log message: User read records from DB | Time: Thu Oct 06 23:36:00 MSK 2022
+Log message: User read records from DB | Time: Thu Oct 06 23:36:00 MSK 2022
+Log message: User exit | Time: Thu Oct 06 23:36:00 MSK 2022
+Log message: User Kolia logs in | Time: Thu Oct 06 23:59:43 MSK 2022
+Log message: User exit | Time: Thu Oct 06 23:59:43 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 10:34:16 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 10:54:38 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 10:58:51 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 11:04:02 MSK 2022
+Log message: User exit | Time: Fri Oct 07 11:04:02 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 11:04:22 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 11:04:51 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 11:05:07 MSK 2022
+Log message: User sign in | Time: Fri Oct 07 11:05:07 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 12:47:51 MSK 2022
+Log message: User add record: Николай Петручок | Time: Fri Oct 07 12:47:51 MSK 2022
+Log message: User exit | Time: Fri Oct 07 12:47:51 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 12:54:58 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 13:17:31 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 13:39:42 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 14:19:08 MSK 2022
+Log message: User add record: Николай Петручок Иванович | Time: Fri Oct 07 14:19:08 MSK 2022
+Log message: User add record: Андрей Цветков Евгениевич | Time: Fri Oct 07 14:19:08 MSK 2022
+Log message: User add record: Артем Ощепков Александрович | Time: Fri Oct 07 14:19:08 MSK 2022
+Log message: User add record: Дятлов Дима Юрьевич | Time: Fri Oct 07 14:19:08 MSK 2022
+Log message: User add record: Яна Толмачева Сергеевна | Time: Fri Oct 07 14:19:08 MSK 2022
+Log message: User add record: Саня Гончаров Александрович | Time: Fri Oct 07 14:19:08 MSK 2022
+Log message: User add record: Серега Кончаков Владимирович | Time: Fri Oct 07 14:19:08 MSK 2022
+Log message: User add record: Николай Неволин Владимирович | Time: Fri Oct 07 14:19:08 MSK 2022
+Log message: User add record: Светлана Петручок Васильевна | Time: Fri Oct 07 14:19:08 MSK 2022
+Log message: User add record: Ольга Петролюк Ивановна | Time: Fri Oct 07 14:19:08 MSK 2022
+Log message: User add record: Татьяна Петручок Ивановна | Time: Fri Oct 07 14:19:08 MSK 2022
+Log message: User exit | Time: Fri Oct 07 14:19:08 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 14:22:50 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 14:30:11 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 14:30:44 MSK 2022
+Log message: User exit | Time: Fri Oct 07 14:30:44 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 14:31:17 MSK 2022
+Log message: User add record: Игорь Кузнецов Владимирович | Time: Fri Oct 07 14:31:17 MSK 2022
+Log message: User exit | Time: Fri Oct 07 14:31:17 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 15:09:47 MSK 2022
+Log message: User read records from DB | Time: Fri Oct 07 15:09:47 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 15:11:08 MSK 2022
+Log message: User read records from DB | Time: Fri Oct 07 15:11:08 MSK 2022
+Log message: User exit | Time: Fri Oct 07 15:11:08 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 15:12:06 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 15:29:59 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 15:30:09 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 15:31:22 MSK 2022
+Log message: User add record: Николай Петручок Иванович | Time: Fri Oct 07 15:31:22 MSK 2022
+Log message: User add record: Андрей Цветков Евгениевич | Time: Fri Oct 07 15:31:22 MSK 2022
+Log message: User add record: Артем Ощепков Александрович | Time: Fri Oct 07 15:31:22 MSK 2022
+Log message: User add record: Дятлов Дима Юрьевич | Time: Fri Oct 07 15:31:22 MSK 2022
+Log message: User add record: Яна Толмачева Сергеевна | Time: Fri Oct 07 15:31:22 MSK 2022
+Log message: User add record: Саня Гончаров Александрович | Time: Fri Oct 07 15:31:22 MSK 2022
+Log message: User add record: Серега Кончаков Владимирович | Time: Fri Oct 07 15:31:22 MSK 2022
+Log message: User add record: Николай Неволин Владимирович | Time: Fri Oct 07 15:31:22 MSK 2022
+Log message: User add record: Светлана Петручок Васильевна | Time: Fri Oct 07 15:31:22 MSK 2022
+Log message: User add record: Ольга Петролюк Ивановна | Time: Fri Oct 07 15:31:22 MSK 2022
+Log message: User add record: Татьяна Петручок Ивановна | Time: Fri Oct 07 15:31:22 MSK 2022
+Log message: User exit | Time: Fri Oct 07 15:31:22 MSK 2022
+Log message: User Kolia logs in | Time: Fri Oct 07 15:37:28 MSK 2022
+Log message: User add record: Николай Петручок Иванович | Time: Fri Oct 07 15:37:28 MSK 2022
+Log message: User add record: Андрей Цветков Евгениевич | Time: Fri Oct 07 15:37:28 MSK 2022
+Log message: User add record: Артем Ощепков Александрович | Time: Fri Oct 07 15:37:28 MSK 2022
+Log message: User add record: Дятлов Дима Юрьевич | Time: Fri Oct 07 15:37:28 MSK 2022
+Log message: User add record: Яна Толмачева Сергеевна | Time: Fri Oct 07 15:37:28 MSK 2022
+Log message: User add record: Саня Гончаров Александрович | Time: Fri Oct 07 15:37:28 MSK 2022
+Log message: User add record: Серега Кончаков Владимирович | Time: Fri Oct 07 15:37:28 MSK 2022
+Log message: User add record: Николай Неволин Владимирович | Time: Fri Oct 07 15:37:28 MSK 2022
+Log message: User add record: Светлана Петручок Васильевна | Time: Fri Oct 07 15:37:28 MSK 2022
+Log message: User add record: Ольга Петролюк Ивановна | Time: Fri Oct 07 15:37:28 MSK 2022
+Log message: User add record: Татьяна Петручок Ивановна | Time: Fri Oct 07 15:37:28 MSK 2022
+Log message: User Kolia logs in | Time: Mon Oct 10 16:27:51 MSK 2022
+Log message: User sign in | Time: Mon Oct 10 16:27:51 MSK 2022
+Log message: User set true Debug mode | Time: Mon Oct 10 16:27:51 MSK 2022
+Log message: User set true Autotest mode | Time: Mon Oct 10 16:27:51 MSK 2022
+Log message: User exit | Time: Mon Oct 10 16:27:51 MSK 2022
+Log message: User Kolia logs in | Time: Mon Oct 10 16:28:37 MSK 2022
+Log message: User read records from DB | Time: Mon Oct 10 16:28:37 MSK 2022
+Log message: User add record: Олеся Пилюгина Александровна  | Time: Mon Oct 10 16:28:37 MSK 2022
+Log message: User exit | Time: Mon Oct 10 16:28:37 MSK 2022
+Log message: User Kolia logs in | Time: Mon Oct 10 16:35:17 MSK 2022
+Log message: User Kolia logs in | Time: Mon Oct 10 16:44:14 MSK 2022
+Log message: User exit | Time: Mon Oct 10 16:44:14 MSK 2022
+Log message: User Kolia logs in | Time: Mon Oct 10 16:58:02 MSK 2022
+Log message: User sign in | Time: Mon Oct 10 16:58:02 MSK 2022
+Log message: User set false Debug mode | Time: Mon Oct 10 16:58:02 MSK 2022
+Log message: User set false Autotest mode | Time: Mon Oct 10 16:58:02 MSK 2022
+Log message: User read records from DB | Time: Mon Oct 10 16:58:02 MSK 2022
+Log message: User exit | Time: Mon Oct 10 16:58:02 MSK 2022
+Log message: User Kolia logs in | Time: Mon Oct 10 16:58:33 MSK 2022
+Log message: User add record: Иван Андреевич Александрович | Time: Mon Oct 10 16:58:33 MSK 2022
+Log message: User exit | Time: Mon Oct 10 16:58:33 MSK 2022
+Log message: User Kolia logs in | Time: Mon Oct 10 17:03:07 MSK 2022
+Log message: User read records from DB | Time: Mon Oct 10 17:03:07 MSK 2022
+Log message: User add record: Андрей Зайцев Иванович | Time: Mon Oct 10 17:03:07 MSK 2022
+Log message: User exit | Time: Mon Oct 10 17:03:07 MSK 2022
